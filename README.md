@@ -1,5 +1,8 @@
 # Google-Distance-Matrix-API
-Robust system that leverages Google Maps Distance Matrix API to gather real-time traffic information for multiple origin-destination pairs, catering to different travel mode and generate CSV file for further analysis.
+A robust system that leverages Google Maps Distance Matrix API to gather real-time traffic information for multiple origin-destination pairs, catering to different travel modes, and generate CSV files for further analysis.
+# 
+![Artboard 1](https://github.com/DixitGdev/Google-Distance-Matrix-API/assets/51261247/8e12ea51-d011-4199-9e11-274f02667df7)
+
 
 
 ## Project Goal
@@ -12,6 +15,10 @@ Robust system that leverages Google Maps Distance Matrix API to gather real-time
 4. Data Exportation to Excel
 
 ### Architecture
+#
+![DistanceUpwork-Final drawio (1)](https://github.com/DixitGdev/Google-Distance-Matrix-API/assets/51261247/118b5855-b95c-4d00-971a-001a64bd0391)
+
+
 
 ## Solution Overview:
 This project was accomplished by combining AWS services, including Lambda, EventBridge, S3, and CloudFront. The solution was tailored to harness the capabilities of the Google Maps Distance Matrix API for traffic data analysis.
@@ -23,6 +30,5 @@ This project was accomplished by combining AWS services, including Lambda, Event
 4. Content Delivery with CloudFront
 5. User Interface Integration
 
-
-<br> </br>
+#
 #### __Designed & Developed by Dixit Ghodadara__
